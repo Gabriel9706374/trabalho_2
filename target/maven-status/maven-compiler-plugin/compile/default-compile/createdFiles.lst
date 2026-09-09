@@ -1,0 +1,5 @@
+model\Avaliacao.class
+service\SistemaAvaliacao.class
+view\TelaAvaliacao.class
+main\Main.class
+model\Aluno.class
